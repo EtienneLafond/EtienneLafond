@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EtienneLafond
-- 👀 I’m interested in games, mobile apps and web development. 
+- 👀 I’m interested in software development, game development, mobile apps and web development. 
 - 🌱 I am a second year Applied Computer Science student at Dalhousie University in Halifax, Nova Scotia, Canada. I’m currently learning Java, C, HTML, CSS and JavaScript.
 - 
 - 💡 Current projects:
